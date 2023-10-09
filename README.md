@@ -5,6 +5,6 @@ Technologies used:
 
 React JS : a. Functional Based Components b. React hooks: useState, useEffect, useReducer.
 
-DataBase: data are stored using objects
+ data are stored using objects
 
 
